@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on analyzing sales and logistics data to provide actionable insights for business decision-making. The dashboard, created in Power BI, showcases key metrics related to sales performance, logistics efficiency, payments, and customer feedback. The goal is to deliver a user-friendly and visually appealing interface that enables stakeholders to explore data and make informed decisions.
+This project focuses on analyzing sales and logistics data. The dashboard, created in Power BI, showcases key metrics related to sales performance, logistics efficiency, payments, and customer feedback. The goal is to deliver a user-friendly and visually appealing interface that enables stakeholders to explore data and make informed decisions.
 
 ### Project Link
 You can access the Power BI dashboard here:  
@@ -82,30 +82,7 @@ The project aimed to demonstrate the following skills:
 
 ---
 
-## Technical Details
-
-### Data Model
-- Tables were linked using appropriate keys to create a unified dataset.
-- Calculated columns and DAX expressions were used to derive key metrics.
-
-### Visualizations
-- A variety of charts and graphs were used to represent data effectively.
-- Maps, funnels, and time-based visualizations were implemented to highlight trends and patterns.
-
-### Dashboard Layout
-- The dashboard was designed with a focus on UX/UI principles, ensuring clarity and ease of use.
-- Containers and spacing were used to group related elements logically.
-
----
-
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-Feel free to explore the dashboard and provide feedback! For any questions or suggestions, please open an issue or contact me directly.
-
----
-
-This `README.md` provides a clear and concise overview of your project, its goals, and how to interact with the Power BI dashboard. You can customize it further if needed!
