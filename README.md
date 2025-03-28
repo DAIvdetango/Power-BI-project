@@ -44,7 +44,7 @@ The project aimed to demonstrate the following skills:
 - **Sales Geography**: Geographic distribution of sales.
 - **Sales Rankings**: Performance rankings of sales teams or products.
 - **Active Customer Base**: Number of unique customers who completed at least one transaction.
-<img src="https://github.com/DAIvdetango/Power-BI-project/blob/main/images/Power_BI_1.png" alt="Power BI" width="500">
+<img src="https://github.com/DAIvdetango/Power-BI-project/blob/main/images/Power_BI_1.png" alt="Power BI" width="800">
 
 #### Logistics Metrics:
 - **On-Time Delivery Rate**: Percentage of deliveries completed on time.
