@@ -46,6 +46,8 @@ The project aimed to demonstrate the following skills:
 - **Active Customer Base**: Number of unique customers who completed at least one transaction.
 <img src="https://github.com/DAIvdetango/Power-BI-project/blob/main/images/Power_BI_1.png" alt="Power BI" width="650">
 
+<img src="https://github.com/DAIvdetango/Power-BI-project/blob/main/images/Power_BI_2.png" alt="Power BI" width="650">
+
 #### Logistics Metrics:
 - **On-Time Delivery Rate**: Percentage of deliveries completed on time.
 - **Shipping Cost per Unit**: Total shipping cost divided by the number of units shipped.
